@@ -1,0 +1,7 @@
+E:\VSPoject\Homework3.10\work3\bin\Debug\work3.exe.config
+E:\VSPoject\Homework3.10\work3\bin\Debug\work3.exe
+E:\VSPoject\Homework3.10\work3\bin\Debug\work3.pdb
+E:\VSPoject\Homework3.10\work3\obj\Debug\work3.csproj.AssemblyReference.cache
+E:\VSPoject\Homework3.10\work3\obj\Debug\work3.csproj.CoreCompileInputs.cache
+E:\VSPoject\Homework3.10\work3\obj\Debug\work3.exe
+E:\VSPoject\Homework3.10\work3\obj\Debug\work3.pdb
